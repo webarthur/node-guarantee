@@ -18,6 +18,8 @@ function Guarantee () {
   return promise
 }
 
+Promise.__proto__.new = Guarantee
+
 if (typeof module !== 'undefined') {
   module.exports = Guarantee
 }
