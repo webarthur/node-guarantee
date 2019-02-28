@@ -1,7 +1,7 @@
 {
-  "name": "Guarantee",
-  "version": "1.0.1",
-  "description": "Promise functions without the new constructor keyword",
+  "name": "node-guarantee",
+  "version": "1.0.2",
+  "description": "Promises without the new constructor keyword",
   "main": "Guarantee.js",
   "repository": {
     "type": "git",

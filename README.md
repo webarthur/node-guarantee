@@ -1,6 +1,6 @@
 # Guarantee.js
 
-Promises without new constructor
+Promises without the new constructor keyword.
 
 ```javascript
 const Guarantee = require('Guarantee')
