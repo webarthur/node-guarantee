@@ -1,0 +1,22 @@
+{
+  "name": "Guarantee",
+  "version": "1.0.1",
+  "description": "Promise functions without the new constructor keyword",
+  "main": "Guarantee.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webarthur/node-guarantee.git"
+  },
+  "keywords": [
+    "promise",
+    "composition",
+    "new"
+  ],
+  "author": "Arthur Araújo <webarthur@gmail.com> (https://araujo.cc)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webarthur/node-guarantee/issues"
+  },
+  "homepage": "https://github.com/webarthur/node-guarantee#readme",
+  "dependencies": {}
+}
